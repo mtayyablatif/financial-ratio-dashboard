@@ -127,19 +127,4 @@ The same methodology is applied across all 19 ratios to generate the company's o
 
 ---
 
-## Skills Demonstrated
-
-* Financial Statement Analysis
-* Ratio Analysis
-* Credit Analysis Concepts
-* Excel Formula Engineering
-* Named Ranges
-* Dashboard Design
-* Data Validation
-* Financial Modeling
-* Business Reporting
-* Data Visualization
-
----
-
 
