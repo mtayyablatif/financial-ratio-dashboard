@@ -13,12 +13,13 @@ Instead of manually calculating ratios every time a new company is analyzed, use
 
 
 ### Dashboard
+<img width="637" height="387" alt="Dashboard" src="https://github.com/user-attachments/assets/d955c9ef-3266-4552-b130-527b1a5964aa" />
 
-<img width="957" height="365" alt="MasterSheet" src="https://github.com/user-attachments/assets/533860e9-2aa6-4702-baa3-318b8f3a8326" />
+
 
 ### Master Input Sheet
+<img width="957" height="365" alt="MasterSheet" src="https://github.com/user-attachments/assets/533860e9-2aa6-4702-baa3-318b8f3a8326" />
 
-<img width="637" height="387" alt="Dashboard" src="https://github.com/user-attachments/assets/d955c9ef-3266-4552-b130-527b1a5964aa" />
 
 ## Features
 
